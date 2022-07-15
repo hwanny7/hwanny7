@@ -1,6 +1,8 @@
 
-**이름:윤승환**
-<img src="https://img.shields.io/github/followers/hwanny?style=social">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hwanny7&fontSize=80)
+
+<h2 align='center'> Tech Stack </h2
+
 
 <div>
     <img 
