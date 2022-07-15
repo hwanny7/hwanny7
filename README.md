@@ -1,11 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hwanny7&fontSize=80)
 
-<h2 align='center'> Tech Stack </h2
+<h2 align='center'> Profile </h2
 
 
 
-## hwanny : Programmer
+**hwanny : Programmer**
 
 **뉴비 개발자입니다. SSAFY에서 파이썬을 공부하고 있습니다.**
 
