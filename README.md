@@ -9,7 +9,7 @@
 
 **SSAFY 8기 교육생입니다. **
 
-## 미래 Stack
+## 기술스택
 
 - React.js
 - Vue.js
