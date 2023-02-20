@@ -7,15 +7,16 @@
 
 **hwanny : Programmer**
 
-**뉴비 개발자입니다. SSAFY에서 파이썬을 공부하고 있습니다.**
+**SSAFY 8기 교육생입니다. **
 
 ## 미래 Stack
 
 - React.js
+- Vue.js
 - Node.js
-- React-Native
-- Android-Studio
-
+- Python
+- Django
+    
 <a href="https://www.naver.com/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.naver.com//"
