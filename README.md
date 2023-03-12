@@ -5,15 +5,16 @@
 
 
 
-**hwanny : Programmer**
+hwanny : Front engineer
 
-**SSAFY 8기 교육생입니다. **
+모든 사람이 잠재적 스승이라는 믿음을 바탕으로 타인의 의견에 귀기울이고 배우는 개발자입니다!
 
 ## 기술스택
 
 - React.js
+- Typescript
+- Javascript
 - Vue.js
-- Node.js
 - Python
 - Django
     
