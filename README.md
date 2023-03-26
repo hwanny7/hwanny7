@@ -18,8 +18,8 @@ hwanny : Front engineer
 - Python
 - Django
     
-<a href="https://www.naver.com/">
+<a href="https://hwanny7.tistory.com/">
     <img 
-        src="https://hwanny7.tistory.com/"
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://www.naver.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
