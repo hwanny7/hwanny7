@@ -29,7 +29,7 @@
   </div>
   
   <div key="3">
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hwanny7&layout=compact&theme=dark width="280" height=180 alt="MUL" />
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hwanny7&layout=compact&theme=dark width="280" height=180 alt="MUL" />
   </div>
   
 </div>
