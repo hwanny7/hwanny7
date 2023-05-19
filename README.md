@@ -5,21 +5,35 @@
 
 
 
-hwanny : Front engineer
-
-모든 사람이 잠재적 스승이라는 믿음을 바탕으로 타인의 의견에 귀기울이고 배우는 개발자입니다!
-
-## 기술스택
-
-- React.js
-- Typescript
-- Javascript
-- Vue.js
-- Python
-- Django
-    
-<a href="https://hwanny7.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://www.naver.com/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
+<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
+  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
+  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
+  <div key="7" >
+    <div key=0 >
+          <h3 style ="font-size : 1.5em; font-weight:700;">
+          
+          </h3>
+          <p style ="font-size : 20px;">모든 사람이 잠재적 스승이라는 믿음을 바탕으로 타인의 의견에 귀기울이고 배우는 프론트엔드 개발자입니다!</p>
+    </div>
+  </div>
+  
+  <div key="4">
+  <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
+    <div ></div>
+  </div>
+  
+  <div key="2">
+    <img src=https://github-readme-stats.vercel.app/api?username=hwanny7&show_icons=true&theme=dark width="350" height="150" alt="githubStats" />
+  </div>
+  
+  <div key="1">
+    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=asdryzx width="280" height="140" alt="baekjoon" />
+    <img src=http://mazandi.herokuapp.com/api?handle=asdryzx&theme=warm width="285" height="140" alt="solved" />
+  </div>
+  
+  <div key="3">
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=hwanny7&layout=compact&theme=dark width="280" height=180 alt="MUL" />
+  </div>
+  
+</div>
