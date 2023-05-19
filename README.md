@@ -9,7 +9,6 @@
   <div key="7" >
     <div key=0 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
-          
           </h3>
           <p style ="font-size : 20px;">모든 사람이 잠재적 스승이라는 믿음을 바탕으로 타인의 의견에 귀기울이고 배우는 프론트엔드 개발자입니다!</p>
     </div>
