@@ -10,7 +10,7 @@
     <div key=0 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
           </h3>
-          <p style ="font-size : 20px;">집요하게 파고드는 “코드 드릴” 윤승환입니다.</p>
+          <p style ="font-size : 20px;">집요하게 파고드는 “코드 드릴” 개발자 윤승환입니다.</p>
     </div>
   </div>
   
