@@ -27,8 +27,4 @@
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=asdryzx width="280" height="140" alt="baekjoon" />
   </div>
   
-  <div key="3">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hwanny7&layout=compact&theme=dark width="280" height=180 alt="MUL" />
-  </div>
-  
 </div>
