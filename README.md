@@ -8,7 +8,7 @@
 
 
   
-  <h3 style ="font-size : 2em; font-weight:700;">📟Language📟</h3>
+  <h3 style ="font-size : 2em; font-weight:700;">📟 Language 📟</h3>
   <div >
     <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python%20IDE&logoColor=white">
   </div>
 
-  <h3 style ="font-size : 2em; font-weight:700;">💻Framework💻</h3>
+  <h3 style ="font-size : 2em; font-weight:700;">💻 Framework 💻</h3>
   <div >
     <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
     <img src="https://img.shields.io/badge/swiftui-F05138?style=for-the-badge&logo=swift&logoColor=white">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   </div>
   
-  <h3 style ="font-size : 2em; font-weight:700;">🛠️Tool🛠️</h3>
+  <h3 style ="font-size : 2em; font-weight:700;">🛠️ Tool 🛠️</h3>
   <div >
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/figma-00B899?style=for-the-badge&logo=figma&logoColor=white">
