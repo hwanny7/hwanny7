@@ -1,6 +1,6 @@
 
 
-<h2 align='center'> Hwanny iOS developer </h2
+<h2 align='center'> Hwanny - iOS developer </h2
 
 
 
