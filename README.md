@@ -19,10 +19,6 @@
     <div ></div>
   </div>
   
-  <div>
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hwanny7&show_icons=true&theme=dark width="350" height="150" alt="githubStats" />
-  </div>
-  
   <div key="1">
     <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=asdryzx width="280" height="140" alt="baekjoon" />
   </div>
