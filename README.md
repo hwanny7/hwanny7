@@ -19,7 +19,7 @@
   <h3 style ="font-size : 2em; font-weight:700;">Framework</h3>
   <div >
     <img src="https://img.shields.io/badge/uikit-2396F3?style=for-the-badge&logo=uikit&logoColor=white">
-    <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swiftui&logoColor=white">
+    <img src="https://img.shields.io/badge/swiftui-F05138?style=for-the-badge&logo=swiftui&logoColor=white">
     <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
   </div>
