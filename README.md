@@ -17,12 +17,12 @@
   <div key="4">
   <h3 style ="font-size : 2em; font-weight:700;">🍀Tech Stack🍀</h3>
     <div >
-      <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=java&logoColor=white">
-      <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=MySQL&logoColor=white">
-      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Oracle&logoColor=white">
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+      <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+      <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python%20IDE&logoColor=white">
+      <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+      <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
     </div>
   </div>
   
