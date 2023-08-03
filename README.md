@@ -4,7 +4,7 @@
 
 
 
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
+<div align="center">
   <div key="7" >
     <div key=0 >
           <h3 style ="font-size : 1.5em; font-weight:700;">
