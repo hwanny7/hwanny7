@@ -8,7 +8,7 @@
 
 
   
-  <h3 style ="font-size : 2em; font-weight:700;">💻 Language | Framework | Tool 💻</h3>
+  <h3 style ="font-size : 2em; font-weight:700;">💻  Language  |  Framework  |  Tool  💻</h3>
   <div >
     <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
     <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
